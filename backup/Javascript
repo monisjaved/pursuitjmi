@@ -1,0 +1,15 @@
+function Encode() 
+{
+    input = document.f.c.value;
+    if (input== "theoneisthis") 
+    {
+   
+     location.href="jonathan.php";
+     alert("Alright entering level 4");
+    }
+    else 
+  {
+    location.href="DagobertDuck.php";
+   
+    }
+}

@@ -1,0 +1,383 @@
+[27-Dec-2012 23:40:38] PHP Warning:  include(level0.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 48
+[27-Dec-2012 23:40:38] PHP Warning:  include(level0.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 48
+[27-Dec-2012 23:40:38] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level0.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 48
+[27-Dec-2012 23:41:09] PHP Parse error:  syntax error, unexpected $end in /home/engineer/public_html/apps/crypt/level/0.php on line 57
+[27-Dec-2012 23:44:42] PHP Parse error:  syntax error, unexpected $end in /home/engineer/public_html/apps/crypt/level/0.php on line 45
+[27-Dec-2012 23:45:25] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[28-Dec-2012 07:09:54] PHP Warning:  include(level/9.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 07:09:55] PHP Warning:  include(level/9.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 07:09:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/9.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 07:10:04] PHP Warning:  include(level/9.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 07:10:04] PHP Warning:  include(level/9.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 07:10:04] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/9.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 07:27:49] PHP Warning:  include(level/11.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 07:27:49] PHP Warning:  include(level/11.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 07:27:49] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/11.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 08:13:16] PHP Warning:  include(level/10.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 08:13:16] PHP Warning:  include(level/10.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 08:13:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/10.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 08:15:10] PHP Warning:  include(level/10.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 08:15:10] PHP Warning:  include(level/10.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 08:15:10] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/10.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 08:39:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/template.php on line 78
+[28-Dec-2012 08:39:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/level.php on line 29
+[28-Dec-2012 08:39:16] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/level.php on line 31
+[28-Dec-2012 08:59:42] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/level/5.php on line 6
+[28-Dec-2012 09:00:32] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/level/5.php on line 6
+[28-Dec-2012 09:02:27] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/level/5.php on line 6
+[28-Dec-2012 11:21:01] PHP Warning:  include(level/30.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 11:21:01] PHP Warning:  include(level/30.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 11:21:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/30.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[28-Dec-2012 11:45:39] PHP Warning:  include(include/1\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 11:45:39] PHP Warning:  include(include/1\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 11:45:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/1\'.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 11:45:58] PHP Warning:  include(include/1\'\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 11:45:58] PHP Warning:  include(include/1\'\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 11:45:58] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/1\'\'.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 12:28:42] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:28:45] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:28:58] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:29:10] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:29:33] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:32:11] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:36:42] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:36:52] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:37:03] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:37:38] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:38:28] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:38:42] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:38:49] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:39:02] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:40:14] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:41:46] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:42:25] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:43:13] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:43:14] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:43:58] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:44:17] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:45:56] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:46:25] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:46:47] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[28-Dec-2012 12:46:47] PHP Warning:  curl_setopt() [<a href='function.curl-setopt'>function.curl-setopt</a>]: Invalid curl configuration option in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 965
+[28-Dec-2012 12:46:47] PHP Warning:  curl_setopt_array() [<a href='function.curl-setopt-array'>function.curl-setopt-array</a>]: Array keys must be CURLOPT constants or equivalent integer values in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 941
+[28-Dec-2012 12:46:47] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:47:14] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:47:21] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:48:06] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:48:42] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:48:52] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:49:37] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:49:59] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:50:07] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:50:18] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:51:07] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:52:26] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:53:20] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:53:30] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:53:32] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:53:34] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:53:43] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:54:28] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 12:56:13] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 13:00:03] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[28-Dec-2012 13:00:03] PHP Warning:  curl_setopt() [<a href='function.curl-setopt'>function.curl-setopt</a>]: Invalid curl configuration option in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 965
+[28-Dec-2012 13:10:15] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 13:11:28] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 13:15:22] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 13:15:30] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 20
+[28-Dec-2012 13:15:54] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 90
+[28-Dec-2012 13:16:35] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[28-Dec-2012 14:33:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/engineer/public_html/apps/crypt/config/get-detail.php on line 18
+[28-Dec-2012 15:15:29] PHP Warning:  include(include/1\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 15:15:29] PHP Warning:  include(include/1\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 15:15:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/1\'.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 15:16:00] PHP Warning:  include(include/1\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 15:16:00] PHP Warning:  include(include/1\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 15:16:00] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/1\'.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 15:16:16] PHP Warning:  include(include/1 order by 1--.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 15:16:16] PHP Warning:  include(include/1 order by 1--.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 15:16:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/1 order by 1--.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 15:16:24] PHP Warning:  include(include/1 order by 2--.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 15:16:24] PHP Warning:  include(include/1 order by 2--.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 15:16:24] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/1 order by 2--.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 13
+[28-Dec-2012 16:27:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/engineer/public_html/apps/crypt/config/get-detail.php on line 18
+[28-Dec-2012 16:28:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/engineer/public_html/apps/crypt/config/get-detail.php on line 18
+[28-Dec-2012 16:28:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/engineer/public_html/apps/crypt/config/get-detail.php on line 18
+[28-Dec-2012 16:28:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/engineer/public_html/apps/crypt/config/get-detail.php on line 18
+[28-Dec-2012 16:49:42] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[28-Dec-2012 16:50:54] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[28-Dec-2012 17:19:56] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[28-Dec-2012 17:20:07] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[28-Dec-2012 17:20:27] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[28-Dec-2012 17:21:21] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[28-Dec-2012 17:21:31] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[28-Dec-2012 17:21:53] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[28-Dec-2012 17:33:36] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 03:49:35] PHP Warning:  include(include/1\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[29-Dec-2012 03:49:35] PHP Warning:  include(include/1\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 13
+[29-Dec-2012 03:49:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/1\'.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 13
+[29-Dec-2012 04:01:26] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:01:26] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:01:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/12.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:01:28] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:01:28] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:01:28] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/12.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:09:51] PHP Warning:  include(level/11.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:09:51] PHP Warning:  include(level/11.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:09:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/11.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:17:22] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:17:22] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:17:22] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/12.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:28:02] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:28:02] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:28:02] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/12.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:28:06] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:28:06] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:28:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/12.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:32:08] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:32:08] PHP Warning:  include(level/12.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 04:32:08] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/12.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[29-Dec-2012 08:02:07] PHP Parse error:  syntax error, unexpected '*', expecting ')' in /home/engineer/public_html/apps/crypt/template.php on line 95
+[29-Dec-2012 12:10:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/template.php on line 78
+[29-Dec-2012 12:10:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/template.php on line 92
+[29-Dec-2012 12:10:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/level.php on line 29
+[29-Dec-2012 12:10:09] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/level.php on line 31
+[29-Dec-2012 12:10:23] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 12:11:28] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 12:11:50] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 12:16:45] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 12:17:31] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[29-Dec-2012 12:17:31] PHP Warning:  curl_setopt() [<a href='function.curl-setopt'>function.curl-setopt</a>]: Invalid curl configuration option in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 965
+[29-Dec-2012 12:19:02] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[29-Dec-2012 12:19:02] PHP Warning:  curl_setopt() [<a href='function.curl-setopt'>function.curl-setopt</a>]: Invalid curl configuration option in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 965
+[29-Dec-2012 12:19:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/template.php on line 78
+[29-Dec-2012 12:19:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/template.php on line 92
+[29-Dec-2012 12:19:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/include/1.php on line 35
+[29-Dec-2012 13:09:17] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 13:11:31] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 13:12:24] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 13:12:35] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 13:13:29] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 13:31:52] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 13:32:16] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[29-Dec-2012 13:56:49] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[30-Dec-2012 06:32:24] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[30-Dec-2012 09:12:08] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[30-Dec-2012 09:22:53] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[30-Dec-2012 09:23:05] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[30-Dec-2012 09:23:34] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[30-Dec-2012 09:23:43] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[30-Dec-2012 11:07:04] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[30-Dec-2012 11:13:22] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[30-Dec-2012 11:30:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/engineer/public_html/apps/crypt/config/get-detail.php on line 18
+[30-Dec-2012 11:58:47] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[30-Dec-2012 12:08:21] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[30-Dec-2012 13:01:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/engineer/public_html/apps/crypt/config/get-detail.php on line 18
+[30-Dec-2012 13:01:41] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/engineer/public_html/apps/crypt/config/get-detail.php on line 18
+[31-Dec-2012 00:02:35] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 00:02:43] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 00:02:54] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 00:03:01] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 00:03:13] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 00:08:54] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 00:11:23] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 01:19:19] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 01:55:15] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 01:57:28] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 01:58:20] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 01:59:12] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 01:59:42] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 02:00:26] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 02:00:45] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 02:03:48] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 05:55:51] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:56:07] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:56:45] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:57:05] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:57:09] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:57:11] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:57:13] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:57:24] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:57:30] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:58:33] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:58:45] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:59:01] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:59:45] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:59:51] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:59:56] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 05:59:58] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:00:00] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:00:00] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:00:02] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:00:02] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:00:04] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:00:52] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:01:03] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:01:37] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:01:43] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:01:46] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:01:50] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:02:04] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 06:02:24] PHP Parse error:  syntax error, unexpected T_STRING in /home/engineer/public_html/apps/crypt/index.php on line 5
+[31-Dec-2012 08:40:10] PHP Fatal error:  Uncaught GraphMethodException: Unsupported get request.
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[31-Dec-2012 10:47:45] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 10:47:47] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 10:47:50] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[31-Dec-2012 10:48:16] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 04:02:18] PHP Warning:  include(include/\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 10
+[01-Jan-2013 04:02:20] PHP Warning:  include(include/\'.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 10
+[01-Jan-2013 04:02:20] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/\'.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 10
+[01-Jan-2013 06:43:26] PHP Warning:  include(level/14000000.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[01-Jan-2013 06:43:26] PHP Warning:  include(level/14000000.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 50
+[01-Jan-2013 06:43:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/14000000.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 50
+[01-Jan-2013 07:01:55] PHP Warning:  include(include/=.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 10
+[01-Jan-2013 07:01:55] PHP Warning:  include(include/=.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 10
+[01-Jan-2013 07:01:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'include/=.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 10
+[01-Jan-2013 11:11:28] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 11:12:15] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 11:12:20] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 11:12:26] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 11:12:47] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 11:12:53] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 11:12:59] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 11:15:33] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 11:17:22] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 11:17:38] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 11:19:19] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[01-Jan-2013 12:55:45] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[01-Jan-2013 12:55:45] PHP Warning:  curl_setopt() [<a href='function.curl-setopt'>function.curl-setopt</a>]: Invalid curl configuration option in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 965
+[01-Jan-2013 12:55:46] PHP Warning:  curl_setopt_array() [<a href='function.curl-setopt-array'>function.curl-setopt-array</a>]: Array keys must be CURLOPT constants or equivalent integer values in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 941
+[01-Jan-2013 13:28:31] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/engineer/public_html/apps/crypt/config/get-detail.php on line 18
+[05-Jan-2013 09:24:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/template.php on line 78
+[05-Jan-2013 09:24:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/template.php on line 92
+[05-Jan-2013 09:24:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/level.php on line 29
+[05-Jan-2013 09:24:30] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/level.php on line 31
+[06-Jan-2013 13:33:51] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[06-Jan-2013 13:33:51] PHP Warning:  curl_setopt() [<a href='function.curl-setopt'>function.curl-setopt</a>]: Invalid curl configuration option in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 965
+[06-Jan-2013 13:33:52] PHP Warning:  curl_setopt_array() [<a href='function.curl-setopt-array'>function.curl-setopt-array</a>]: Array keys must be CURLOPT constants or equivalent integer values in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 941
+[08-Jan-2013 14:40:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/template.php on line 78
+[08-Jan-2013 14:40:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/template.php on line 92
+[08-Jan-2013 14:40:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/level.php on line 29
+[08-Jan-2013 14:40:45] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/level.php on line 31
+[10-Jan-2013 10:20:09] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:21:03] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:21:16] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:22:00] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:23:38] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:24:00] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:24:08] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:24:25] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:24:37] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:53:32] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:53:40] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:53:47] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 10:53:58] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:09:34] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:09:43] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:10:22] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:20:07] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:22:45] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:22:59] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:24:27] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:25:35] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:27:10] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:29:01] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:29:55] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:30:08] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:32:35] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:34:49] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:35:08] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:35:39] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:37:44] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:38:18] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:40:42] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:44:32] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:44:39] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:45:09] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:45:18] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:45:28] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:47:11] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:50:09] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:51:17] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:51:59] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[10-Jan-2013 11:52:59] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[11-Jan-2013 12:00:37] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/engineer/public_html/apps/crypt/config/get-detail.php on line 18
+[11-Jan-2013 12:00:48] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/engineer/public_html/apps/crypt/config/get-detail.php on line 18
+[13-Jan-2013 01:47:12] Invalid IPv6 configuration on server, Please disable or get native IPv6 on your server.
+[13-Jan-2013 01:47:12] PHP Warning:  curl_setopt() [<a href='function.curl-setopt'>function.curl-setopt</a>]: Invalid curl configuration option in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 965
+[14-Jan-2013 08:22:46] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[14-Jan-2013 08:24:41] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[14-Jan-2013 08:24:55] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[14-Jan-2013 08:25:03] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[14-Jan-2013 08:25:11] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[14-Jan-2013 08:28:30] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[14-Jan-2013 08:28:43] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[14-Jan-2013 08:33:44] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[14-Jan-2013 08:44:26] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[15-Jan-2013 10:57:38] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[15-Jan-2013 10:58:05] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[15-Jan-2013 10:58:38] PHP Fatal error:  Cannot break/continue 1 level in /home/engineer/public_html/apps/crypt/level/5.php on line 91
+[18-Jan-2013 19:35:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/template.php on line 78
+[18-Jan-2013 19:35:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/template.php on line 92
+[18-Jan-2013 19:35:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/engineer/public_html/apps/crypt/include/1.php on line 35
+[02-Feb-2013 12:34:10] PHP Parse error:  syntax error, unexpected '}' in /home/engineer/public_html/apps/crypt/level.php on line 63
+[02-Feb-2013 12:35:01] PHP Parse error:  syntax error, unexpected '}' in /home/engineer/public_html/apps/crypt/level.php on line 63
+[02-Feb-2013 12:35:58] PHP Parse error:  syntax error, unexpected '}' in /home/engineer/public_html/apps/crypt/level.php on line 59
+[02-Feb-2013 12:39:01] PHP Warning:  include(level/11.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[02-Feb-2013 12:39:01] PHP Warning:  include(level/11.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[02-Feb-2013 12:39:01] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/11.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 55
+[02-Feb-2013 12:39:32] PHP Warning:  include(level/11.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[02-Feb-2013 12:39:32] PHP Warning:  include(level/11.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[02-Feb-2013 12:39:32] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/11.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 55
+[02-Feb-2013 13:00:34] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[03-Feb-2013 10:40:10] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[08-Feb-2013 05:47:24] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[09-Feb-2013 04:43:30] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[09-Feb-2013 04:44:01] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[09-Feb-2013 04:44:24] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[09-Feb-2013 05:25:37] PHP Warning:  include(level/4.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[09-Feb-2013 05:25:37] PHP Warning:  include(level/4.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[09-Feb-2013 05:25:37] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/4.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 55
+[09-Feb-2013 05:25:47] PHP Warning:  include(level/4.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[09-Feb-2013 05:25:47] PHP Warning:  include(level/4.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[09-Feb-2013 05:25:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/4.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 55
+[09-Feb-2013 05:26:05] PHP Warning:  include(level/4.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[09-Feb-2013 05:26:05] PHP Warning:  include(level/4.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[09-Feb-2013 05:26:05] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/4.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 55
+[11-Feb-2013 03:31:53] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[11-Feb-2013 03:33:42] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[11-Feb-2013 03:36:54] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[11-Feb-2013 03:37:29] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[11-Feb-2013 03:37:58] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[12-Feb-2013 03:40:25] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[12-Feb-2013 03:40:43] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[13-Feb-2013 10:20:50] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[13-Feb-2013 10:21:18] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[13-Feb-2013 10:21:38] PHP Fatal error:  Uncaught Exception: 200: Requires extended permission: read_stream
+  thrown in /home/engineer/public_html/apps/crypt/config/base_facebook.php on line 1249
+[14-Feb-2013 09:32:35] PHP Warning:  include(level/14.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[14-Feb-2013 09:32:35] PHP Warning:  include(level/14.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[14-Feb-2013 09:32:35] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/14.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 55
+[14-Feb-2013 09:39:09] PHP Warning:  include(level/14.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[14-Feb-2013 09:39:09] PHP Warning:  include(level/14.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[14-Feb-2013 09:39:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/14.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 55
+[14-Feb-2013 09:39:17] PHP Warning:  include(level/14.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[14-Feb-2013 09:39:17] PHP Warning:  include(level/14.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/engineer/public_html/apps/crypt/level.php on line 55
+[14-Feb-2013 09:39:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'level/14.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/engineer/public_html/apps/crypt/level.php on line 55

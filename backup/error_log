@@ -1,0 +1,4 @@
+[18-Dec-2012 10:52:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/engineer/public_html/apps/crypt/backup/users.php on line 11
+[18-Dec-2012 10:52:52] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/engineer/public_html/apps/crypt/backup/users.php on line 12
+[27-Dec-2012 06:15:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/engineer/public_html/apps/crypt/backup/logincheck.php on line 1
+[27-Dec-2012 06:15:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/engineer/public_html/apps/crypt/backup/logincheck.php on line 2

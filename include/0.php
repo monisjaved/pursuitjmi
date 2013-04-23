@@ -1,0 +1,1 @@
+<strong> Picture : </strong><img src=http://graph.facebook.com/<?php echo $user ;?>/picture/><strong> Users Basic Info</strong> <?php d($userInfo); ?>

@@ -1,0 +1,47 @@
+
+#head1 {float: left;} 
+#head2 {float: right; } 
+#menu {
+	float: left;
+	width: 900px;
+	padding-top: 25px;
+	padding-right: 200px;
+	padding-left:70px;
+	
+}
+
+#menu ul {
+	float: right;
+	margin: 0;
+	padding: 0px 0px 0px 0px;
+	list-style: none;
+	line-height: normal;
+	
+}
+.style1 {font-family: Georgia, "Times New Roman", Times, serif}
+#menu li {
+	display: block;
+	float: left;
+	
+}
+
+#menu a {
+	display: block;
+	float: left;
+	height: 22px;
+	padding: 10px 20px 0px 20px;
+	border-right: 1px solid #204359;
+	text-decoration: none;
+	text-align: center;
+	text-transform: capitalize;
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #204359;
+	color: #cc1100;
+	cursor:pointer;
+	font:Verdana, Arial, Helvetica, sans-serif;
+}
+
+
+
